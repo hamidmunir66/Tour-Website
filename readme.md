@@ -1,0 +1,1 @@
+This is my first project of HTML5 and CSS3 so i don't know accurately how to write code and how to manage things but this project also help you to learn media queries and css
